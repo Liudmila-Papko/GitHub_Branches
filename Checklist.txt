@@ -1,0 +1,10 @@
+1) Name of the product
+2) Version
+3) Environment
+4) Date
+5) Title of testing moduls
+6) ID
+7) List of tests
+8) Expected result
+9) Status
+10 Comment
