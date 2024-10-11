@@ -1,0 +1,13 @@
+1) ID
+2) Date
+3) Priority
+4) Severity
+5) Environment
+6) Title
+7) Steps
+8) Expected result
+9) Actual result
+10) Attachment
+11) Author
+12) Status
+13) Comments
